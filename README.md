@@ -5,7 +5,7 @@ This is an implementation of the data access layer for the [Trading Exchange Col
 
 It constitutes a network API providing connections to data services.
 
-See [Data Access Layer](https://github.com/pecknigel/trading-exchange-collaborative-learning?tab=readme-ov-file#data—access-layer) for more about the system layer that this project implements.
+See [Data Access Layer](https://github.com/pecknigel/trading-exchange-collaborative-learning?tab=readme-ov-file#data-access-layer) for more about the system layer that this project implements.
 
 See [Data Access Layer Interface Agreements](https://github.com/pecknigel/trading-exchange-collaborative-learning?tab=readme-ov-file#data-access-layer-interface) for specification of the interface that this should provide.
 
