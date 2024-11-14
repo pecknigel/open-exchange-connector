@@ -5,10 +5,6 @@ This is an implementation of the data access layer for the [Trading Exchange Col
 
 It constitutes a network API providing connections to data services.
 
-See [Data Access Layer](https://github.com/pecknigel/trading-exchange-collaborative-learning?tab=readme-ov-file#data-access-layer) for more about the system layer that this project implements.
-
-See [Data Access Layer Interface Agreements](https://github.com/pecknigel/trading-exchange-collaborative-learning?tab=readme-ov-file#data-access-layer-interface) for specification of the interface that this should provide.
-
 ## What’s all this about?
 
 It’s all part of a [collaborative project](https://github.com/pecknigel/trading-exchange-collaborative-learning) for learning web development and software engineering. All backed by a highly experienced teacher who has stepped away after twenty years in software development to concentrate on teaching.
@@ -16,6 +12,27 @@ It’s all part of a [collaborative project](https://github.com/pecknigel/tradin
 Mentoring is available as needed, seven days a week.
 
 See [Prescription Free Academy](https://prescriptionfree.academy/).
+
+## How to Run the Project
+
+Clone the repository and install the dependencies.
+
+```
+git clone git@github.com:pecknigel/open-exchange-connector.git
+npm install
+```
+
+Run `npm start` to start the dev server.
+
+### Testing API Routes
+
+Postman collection coming soon.
+
+### Specification
+
+See [Data Access Layer](https://github.com/pecknigel/trading-exchange-collaborative-learning?tab=readme-ov-file#data-access-layer) for more about the system layer that this project implements.
+
+See [Data Access Layer Interface Agreements](https://github.com/pecknigel/trading-exchange-collaborative-learning?tab=readme-ov-file#data-access-layer-interface) for specification of the interface that this should provide.
 
 ## Project Management and Discussion
 
