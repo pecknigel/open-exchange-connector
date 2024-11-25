@@ -11,6 +11,10 @@ It’s all part of a [collaborative project](https://github.com/pecknigel/tradin
 
 [Mentoring is available](https://prescriptionfree.academy/) as needed, seven days a week.
 
+## Getting Started
+
+See the [program repo](https://github.com/pecknigel/trading-exchange-collaborative-learning) for info on getting started and about this learning program in general.
+
 ## How to Run the Project
 
 Clone the repository and install the dependencies.
@@ -26,7 +30,7 @@ Run `npm start` to start the dev server.
 
 Postman collection coming soon.
 
-### Specification
+## Specification
 
 See [Data Access Layer](https://github.com/pecknigel/trading-exchange-collaborative-learning?tab=readme-ov-file#data-access-layer) for more about the system layer that this project implements.
 
