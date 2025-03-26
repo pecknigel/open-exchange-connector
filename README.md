@@ -1,7 +1,7 @@
 
 # Open Exchange Connector
 
-This is an implementation of the data access layer for the [Trading Exchange Collaborative Learning Program](https://github.com/pecknigel/trading-exchange-collaborative-learning) from the [Prescription Free Academy](https://prescriptionfree.academy/) of Web Development and Software Engineering.
+This is an implementation of the data access layer for the [Trading Exchange Collaborative Learning Program](https://github.com/pecknigel/trading-exchange-collaborative-learning).
 
 It constitutes a network API providing connections to data services.
 
@@ -9,7 +9,7 @@ It constitutes a network API providing connections to data services.
 
 It’s all part of a [collaborative project](https://github.com/pecknigel/trading-exchange-collaborative-learning) for learning web development and software engineering. All backed by an experienced software engineer and teacher who has stepped away after twenty years in software development to concentrate on teaching.
 
-[Mentoring is available](https://prescriptionfree.academy/) as needed, seven days a week.
+[Teaching and mentoring is available](https://preply.com/en/tutor/4217857) as needed, Monday to Saturday.
 
 ## Getting Started
 
